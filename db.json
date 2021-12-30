@@ -1,0 +1,30 @@
+{
+    "products": {
+        "smartphones": [
+            {
+                "name": "iphone",
+                "model": "13",
+                "price": "1000",
+                "currency": "usd",
+                "link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiI--2S-ov1AhVQ43cKHdS4AOUYABAfGgJlZg&ae=2&ohost=www.google.com&cid=CAASEuRoVdbHzXX0nHmKlGl-r3sd5A&sig=AOD64_0tCaUcxSK3yEFJ2XUTBeYf3h7iIg&q&adurl&ved=2ahUKEwju-eWS-ov1AhWH8LsIHVLFAU0Q0Qx6BAgDEAE",
+                "desc": "iphone 13"
+            },
+            {
+                "name": "samsung",
+                "model": "geleksi",
+                "price": "500",
+                "currency": "usd",
+                "link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiUv9Kn-ov1AhVNA4sKHdGVAUUYABA6GgJlZg&ae=2&ohost=www.google.com&cid=CAASEuRo3IVY72ncnRGVSAv8uWq7LQ&sig=AOD64_2gmBk1alH6zddWgid-C7Preu-JRQ&q&adurl&ved=2ahUKEwjrm8qn-ov1AhUzgf0HHS82CvAQ0Qx6BAgCEAE",
+                "desc": "samsung geleksi"
+            },
+            {
+                "name": "xiaomi",
+                "model": "redmi note 8",
+                "price": "200",
+                "currency": "usd",
+                "link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwik6LS2-ov1AhWKqXcKHaOKBGoYABAYGgJlZg&ae=2&ohost=www.google.com&cid=CAASEuRouLOpi6MgSPuEvn9Bb3gKig&sig=AOD64_1G0qddfSPRnASrHn1hkoFZT6t5Pw&q&adurl&ved=2ahUKEwiI2am2-ov1AhW67rsIHR4ZDwwQ0Qx6BAgDEAE",
+                "desc": "xiaomi redmi note 8"
+            }
+        ]     
+    }
+}
